@@ -2,7 +2,7 @@
 
 I work on **search and recommendation**, **LLM algorithms**, **machine learning**, and **recommender systems**. My long-term focus is on building **practical and scalable intelligent systems** that connect retrieval, ranking, causal inference, and product-facing algorithm design.
 
-### 👯 Research Collaboration
+### 🤝 Research Collaboration
 
 I am open to discussions and collaboration on topics related to:
 
