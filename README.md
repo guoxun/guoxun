@@ -70,16 +70,18 @@ I care not only about model quality, but also about whether a method is explaina
 📚 **Knowledge Sharing**  
 On Zhihu, I write about topics including **recommendation algorithms**, **recommender systems**, **search and recommendation**, **causal inference**, and **computational biology**.
 
-As of **March 9, 2026**, my public Zhihu profile shows:
+As of **May 2026**, my public Zhihu profile shows:
 
 - **10,549 followers**
 - **173 answers**
-- **26 articles**
+- **29 articles**
 
 I also run the WeChat public account: **机器学习与商业智能前沿**.
 
 🧠 **Selected GitHub Projects**
 
+- [PaperNotes](https://github.com/guoxun/PaperNotes): curated paper reading notes on recommender systems, causal inference, and LLM×RecSys (synced from Zhihu)
+- [kcicpt-matlab](https://github.com/guoxun/kcicpt-matlab): MATLAB implementation of KCICPT algorithm for Bayesian network structure learning (graduate research)
 - [AI_game](https://github.com/guoxun/AI_game): browser game experiments built with Codex
 - [Editor-Qt](https://github.com/guoxun/Editor-Qt): a game editor similar to RPG Maker
 - [pytorch-vdsr](https://github.com/guoxun/pytorch-vdsr): PyTorch implementation of VDSR
