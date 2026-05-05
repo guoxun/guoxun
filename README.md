@@ -80,6 +80,7 @@ I also run the WeChat public account: **机器学习与商业智能前沿**.
 
 🧠 **Selected GitHub Projects**
 
+- [LLM4Rec-Papers](https://github.com/guoxun/LLM4Rec-Papers): in-depth reading notes on the One-series generative recommendation system (OneRec, OneLoc, OneMall, RankMixer, etc.), synced from Zhihu
 - [PaperNotes](https://github.com/guoxun/PaperNotes): curated paper reading notes on recommender systems, causal inference, and LLM×RecSys (synced from Zhihu)
 - [kcicpt-matlab](https://github.com/guoxun/kcicpt-matlab): MATLAB implementation of KCICPT algorithm for Bayesian network structure learning (graduate research)
 - [AI_game](https://github.com/guoxun/AI_game): browser game experiments built with Codex
